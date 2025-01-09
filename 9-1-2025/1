@@ -1,1 +1,26 @@
+Intro to Cold System Forensics
+
+While live forensics tackles actively running systems, cold system forensics focuses on dormant or powered-off machines, aiming to preserve the system's state and any potential evidence.
+
+From <https://tryhackme.com/r/room/introtocoldsystemforensics> 
+
+
+
+
+Objectives
+Learn the differences between live system forensics and cold system forensics.
+Explore the challenges and opportunities of examining offline systems.
+Learn the process and considerations of acquiring and preserving data from cold systems.
+A brief introduction to various tools used in the field and when they would be applicable.
+
+Methods for Acquiring Data From Cold Systems
+
+Disk Imaging
+Physical Acquisition
+Secure Storage
+Ensuring Integrity and Chain of Custody
+
+Rank
+166476
+
 
