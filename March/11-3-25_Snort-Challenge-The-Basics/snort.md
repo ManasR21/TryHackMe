@@ -127,6 +127,6 @@ alert tcp any any -> any any (msg: "Packet payload size between 770 and 855 byte
 ---
 
 
-![Accomplished](March/11-3-25_Snort-Challenge-The-Basics/image.png)
+![Accomplished](image.png)
 
 
