@@ -1,5 +1,5 @@
 ## Osquery Interactive Mode
-
+ 
 - Open terminal and run `osqueryi`.
 - Use `.help` command for available commands.
 - Example commands:
