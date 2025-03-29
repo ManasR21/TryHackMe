@@ -5,9 +5,9 @@
 - Example commands:
   - `.tables` - List all tables.
   - `.schema table_name` - Show table structure.
-  - `.mode MODE` - Set output mode (csv, column, line, etc.).
+  - `.mode MODE` - Set output mode (csv, column, line, etc.).                     
 
-## Listing Tables
+## Listing Tables                          
 
 - Use `.tables` to list all tables.
 - Example: `.tables process` - List tables related to processes.
