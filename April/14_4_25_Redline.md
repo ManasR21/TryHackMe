@@ -6,7 +6,7 @@
 ## Task 2: Data Collection
 
 ### Questions:
-1. **What data collection method takes the least amount of time?**
+1. **What data collection method takes the least amount of time?**   
    - **Answer:** Standard Collector
 
 2. **What method would you choose for granular data collection against known indicators like domains, hashes, IP addresses, etc.?**
