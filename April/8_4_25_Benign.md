@@ -7,7 +7,7 @@ An alert from the client’s IDS indicated a suspicious process on an HR departm
 - **IT Department**: James, Moin, Katrina  
 - **HR Department**: Haroon, Chris, Diana  
 - **Marketing Department**: Bell, Amelia, Deepak
-
+ 
 ---
 
 ## Investigation Findings
