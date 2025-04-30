@@ -8,7 +8,7 @@
 ### 1. What is the short form for HKEY_LOCAL_MACHINE?
 - **Answer:** HKLM
 
-## Task 3: Accessing registry hives offline
+## Task 3: Accessing registry hives offline 
 ### 1. What is the path for the five main registry hives, DEFAULT, SAM, SECURITY, SOFTWARE, and SYSTEM?
 - **Answer:** C:\Windows\System32\Config
 ### 2. What is the path for the AmCache hive?
